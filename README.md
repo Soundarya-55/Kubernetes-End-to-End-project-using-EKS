@@ -1,6 +1,6 @@
 # Kubernetes-End-to-End-project-using-EKS
 
-1.Understanding Kubernetes Fundamental
+# Understanding Kubernetes Fundamental
   -EKS vs Kubernetes
 
 2.Setting up your AWS Environment for EKS
