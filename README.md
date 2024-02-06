@@ -3,17 +3,17 @@
 # Understanding Kubernetes Fundamental
   -EKS vs Kubernetes
 
-  ##Setting up your AWS Environment for EKS
+# Setting up your AWS Environment for EKS
   -Creating an AWS Account and Setting up IAM Users
   -Configuring the AWS CLI and kubectl
   -Preparing Networking and Security Groups for EKS
    
-3.Launching your First EKS Cluster
+# Launching your First EKS Cluster
   -Using the EKS Console for Cluster Creation
   -Launching an EKS Cluster via AWS CLI
   -Authenticating with the EKS Cluster
 
-4.Deploying Applications on EKS
+# Deploying Applications on EKS
   -Containerizing Applications with Docker 
   -Writing Kubernetes Deployment YAMLs
   -Deploying Applications to EKS: Step-by-step Guide
